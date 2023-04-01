@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/Documents/CProjects/Labs7/Question3.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+sgets.h
+C:/Users/User/Documents/CProjects/Labs7/sgets.h
+
+C:/Users/User/Documents/CProjects/Labs7/sgets.h
+

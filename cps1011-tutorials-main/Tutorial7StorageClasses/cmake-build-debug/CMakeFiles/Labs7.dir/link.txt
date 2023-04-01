@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Labs7.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe cr CMakeFiles\Labs7.dir/objects.a @CMakeFiles\Labs7.dir\objects1.rsp
+C:\msys64\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Labs7.dir/objects.a -Wl,--no-whole-archive -o Labs7.exe -Wl,--out-implib,libLabs7.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Labs7.dir\linklibs.rsp

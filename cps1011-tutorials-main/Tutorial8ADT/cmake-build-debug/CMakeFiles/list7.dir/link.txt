@@ -1,0 +1,2 @@
+C:\msys64\mingw64\bin\ar.exe qc liblist7.a CMakeFiles/list7.dir/Question9list.c.obj
+C:\msys64\mingw64\bin\ranlib.exe liblist7.a

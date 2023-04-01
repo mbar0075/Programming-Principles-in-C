@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/Documents/CProjects/Question1Assignment/functionClass.h
+
+C:/Users/User/Documents/CProjects/Question1Assignment/test.c
+stdio.h
+-
+ctype.h
+-
+functionClass.h
+C:/Users/User/Documents/CProjects/Question1Assignment/functionClass.h
+

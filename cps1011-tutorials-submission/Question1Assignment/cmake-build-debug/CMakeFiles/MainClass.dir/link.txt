@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\MainClass.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe cr CMakeFiles\MainClass.dir/objects.a @CMakeFiles\MainClass.dir\objects1.rsp
+C:\msys64\mingw64\bin\gcc.exe  -Wall -g -Wl,--whole-archive CMakeFiles\MainClass.dir/objects.a -Wl,--no-whole-archive -o MainClass.exe -Wl,--out-implib,libMainClass.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\MainClass.dir\linklibs.rsp

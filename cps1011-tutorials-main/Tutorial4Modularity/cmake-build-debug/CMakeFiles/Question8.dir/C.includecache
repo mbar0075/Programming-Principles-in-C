@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/Documents/CProjects/Labs4/ObjectClass.h
+
+C:/Users/User/Documents/CProjects/Labs4/Question8.c
+stdio.h
+-
+ObjectClass.h
+C:/Users/User/Documents/CProjects/Labs4/ObjectClass.h
+

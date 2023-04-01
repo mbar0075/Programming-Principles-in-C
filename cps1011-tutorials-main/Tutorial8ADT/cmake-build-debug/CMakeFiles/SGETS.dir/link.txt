@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\SGETS.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe cr CMakeFiles\SGETS.dir/objects.a @CMakeFiles\SGETS.dir\objects1.rsp
+C:\msys64\mingw64\bin\gcc.exe  -Wall -g -shared -o libSGETS.dll -Wl,--out-implib,libSGETS.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\SGETS.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\SGETS.dir\linklibs.rsp

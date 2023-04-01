@@ -1,0 +1,6 @@
+C:/Users/User/Documents/CProjects/Labs7/cmake-build-debug/CMakeFiles/Question1.dir
+C:/Users/User/Documents/CProjects/Labs7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/User/Documents/CProjects/Labs7/cmake-build-debug/CMakeFiles/Question2.dir
+C:/Users/User/Documents/CProjects/Labs7/cmake-build-debug/CMakeFiles/Question3.dir
+C:/Users/User/Documents/CProjects/Labs7/cmake-build-debug/CMakeFiles/Question4.dir
+C:/Users/User/Documents/CProjects/Labs7/cmake-build-debug/CMakeFiles/edit_cache.dir
