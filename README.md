@@ -15,6 +15,9 @@ The project consisted of two main tasks, each focused on implementing different 
 
 ### 1. Array Manipulation:
 In the first task, the goal was to implement various array-manipulating functions. These functions included initializing an array with user-provided integer values, displaying the array in a specific format, reversing the content of an array, computing the frequency of values in an array, and displaying the frequency pairs. The project required applying programming principles correctly, providing source code explanations, and demonstrating a working solution for each task.
+
+![Array Manipulation](https://github.com/mbar0075/Programming-Principles-in-C/assets/103250564/8e1dd892-2e32-4569-87d4-808502d4dd06)
+
 ```c
 ----------------------
 | typedef struct {   | 
@@ -32,6 +35,8 @@ In the first task, the goal was to implement various array-manipulating function
 
 ### 2. DataTable library:
 The second task involved creating a DataTable library. The library aimed to support storing and processing data elements in a spreadsheet-like structure, resembling n-dimensional matrices. The DataTable structure was designed to store data attributes of floating-point numbers and strings. The associated operations included initializing and deinitializing the DataTable structure, loading and exporting data from/to CSV files, displaying the DataTable, and performing projections and mutations on the data. The implementation of the DataTable library required adhering to programming principles, providing API header files, explaining the source code, and developing a comprehensive test driver.
+
+![DataTable Library](https://github.com/mbar0075/Programming-Principles-in-C/assets/103250564/38726a1b-b93a-4d5d-a76d-0c3fe024faaa)
 
 ```c
 -------------------------
