@@ -82,6 +82,6 @@ Overall, the project not only allowed me to gain practical experience in develop
 
 ## Deliverables:
 The repository includes :<br />
-1. cps1011-tutorials-main - directory which holds various tutorials
-2. cps1011-tutorials-submission - directory which holds assignment
+1. [cps1011-tutorials-main](https://github.com/mbar0075/Programming-Principles-in-C/tree/main/cps1011-tutorials-main) - directory which holds various tutorials
+2. [cps1011-tutorials-submission](https://github.com/mbar0075/Programming-Principles-in-C/tree/main/cps1011-tutorials-submission) - directory which holds assignment
  
